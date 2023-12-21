@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CamCoder20
+- 👋 Hi, I’m @CamCoder20 Gudetama
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any projects
